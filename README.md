@@ -1,1 +1,6 @@
 # lab-practice
+<html>
+  <body>
+    <p> this is a paragraph</p>
+  </body>
+</html>
